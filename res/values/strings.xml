@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Encryptor</string>
+    <string name="msg">Type Message Here</string>
+    <string name="action_settings">Settings</string>
+    <string name="alg_prompt">Choose an Algorithm</string>
+    <string name="hex">Hex</string>
+    <string name="base64">Base64</string>
+    <string-array name="alg_array">
+        <item>MD5</item>
+        <item>SHA-1</item>
+        <item>SHA-256</item>
+        <item>SHA-384</item>
+        <item>SHA-512</item>
+    </string-array>
+
+</resources>
